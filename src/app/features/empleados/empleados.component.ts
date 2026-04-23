@@ -11,7 +11,7 @@ import { Empleado, CreateEmpleado, Cargo, Distrito } from '../../core/models/mod
   template: `
     <div class="page">
       <div class="page-header">
-        <div><h2>👥 Empleados</h2><p class="sub">Gestión de personal</p></div>
+        <div><h2>👥 Listado de Empleados</h2><p class="sub">Gestión de personal</p></div>
         <button class="btn-primary" (click)="openForm()">➕ Nuevo Empleado</button>
       </div>
 
